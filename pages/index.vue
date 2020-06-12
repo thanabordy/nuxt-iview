@@ -1,10 +1,10 @@
 <template>
   <div>
-    <a href="./manga/search">
+    <!--<a href="./manga/search">
       <v-btn color="info">Go To Search Page</v-btn>
-    </a>
+    </a> -->
 
-    <!-- <Button to="./manga/search">Go To Search Page</Button> -->
+    <Button to="./manga/search">Go To Search Page</Button> 
   </div>
 </template>
 
